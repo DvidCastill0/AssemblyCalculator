@@ -1,2 +1,2 @@
 # AssemblyCalculator
-Instrucciones: Abrir archivo .asm con el rpograma Emu8086
+Instrucciones: Abrir archivo .asm con el programa Emu8086
